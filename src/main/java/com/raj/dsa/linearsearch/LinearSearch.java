@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class LinearSearch {
 
-	public int linearSearch(List<Integer> list, int target) {
+	public int search(List<Integer> list, int target) {
 		int result=-1;
 		int lengthOfList=list.size();
 		
